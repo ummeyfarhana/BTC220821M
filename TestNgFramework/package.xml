@@ -1,0 +1,10 @@
+<suite name="Anything">
+<test name="whatever">
+<packages>
+<package name="com">
+
+</package>
+</packages>
+</test>
+
+</suite>

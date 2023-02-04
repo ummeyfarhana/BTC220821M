@@ -1,0 +1,21 @@
+<suite name="Anything" paralal="methods">
+
+<test name="Whatever">
+<classes>
+<class>
+<class name="com.smokeTest">
+
+</class>
+</class>
+</classes>
+</test>
+
+<test name="Whatever1">
+<classes>
+<class name="com.UnitTest">
+
+
+</class>
+</classes>
+</test>
+</suite>

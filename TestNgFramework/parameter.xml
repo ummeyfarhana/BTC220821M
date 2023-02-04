@@ -1,0 +1,26 @@
+<suite name="Anuthing">
+<parameter name="browser" value="chrome">
+
+</parameter>
+<test name="whatever">
+<class>
+<class name="com.smokeTest">
+<method name="smoke">
+
+</method>
+</class>
+</class>
+</test>
+
+<parameter name="broeser" value="firefox">
+
+</parameter>
+<test name="whatever1">
+<classes>
+<class name="com.UnitTest">
+
+</class>
+
+</classes>
+</test>
+</suite>

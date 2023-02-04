@@ -1,0 +1,20 @@
+<suite name="Anything">
+
+<test name="whatever">
+<classes>
+<class name="com.smokeTest">
+
+<methods>
+<method name="smoke">
+
+</method>
+</methods>
+</class>
+</classes>
+
+
+</test>
+
+
+
+</suite>

@@ -1,0 +1,22 @@
+<suite name="Anything">
+<listners>
+<Listner class_name="com.BaseListner">
+
+</Listner>
+</listners>
+<test name="Whatever">
+<class>
+<class name="com.smokeTest">
+<methods>
+<include name="test1">
+<exclude name="test8"></exclude></include>
+
+
+</methods>
+</class>
+</class>
+</test>
+
+</suite>
+
+
